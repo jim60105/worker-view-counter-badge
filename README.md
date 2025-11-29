@@ -17,12 +17,6 @@ A view counter implemented using Cloudflare Workers Edge storage solution.
 > - Migrate from Service Workers to ES Modules (D1 can only works with ES Modules).
 > - Update CI workflow.
 
-> [!Important]
-> It is important to note that _D1 is currently in public beta_.  
-> It is not advisable to utilize beta products for large production workloads.  
-> If you find yourself in this scenario, please choose to use the upstream KV solution.  
-> Also, please star🌟 and watch👀 this repo to stay updated with our future modifications.
-
 ## Setup
 
 The view counter badge is meant to be deployed individually for each profile/user. Click the button and then follow the steps below to deploy your own view counter. During the process, it will guide you to log in (or register) your GitHub and Cloudflare accounts.

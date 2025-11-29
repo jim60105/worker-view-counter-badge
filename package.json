@@ -14,10 +14,10 @@
   ],
   "license": "MIT",
   "devDependencies": {
-    "@cloudflare/workers-types": "^4.20231010.0",
-    "prettier": "^1.18.2",
-    "typescript": "^5.2.2",
-    "wrangler": "^3.13.1"
+    "@cloudflare/workers-types": "^4.20251128.0",
+    "prettier": "^3.7.2",
+    "typescript": "^5.9.3",
+    "wrangler": "^4.51.0"
   },
   "dependencies": {
     "badgen": "^3.2.2"

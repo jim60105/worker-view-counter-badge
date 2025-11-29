@@ -1,6 +1,6 @@
 name = "view-counter"
 
-compatibility_date = "2023-07-24"
+compatibility_date = "2025-11-29"
 main = "./src/index.ts"
 
 send_metrics = false
@@ -11,6 +11,6 @@ workers_dev = true
 mode = "smart"
 
 [[d1_databases]]
-binding = "ViewCounter" # i.e. available in your Worker on env.DB
-database_id = "72f5fd97-3f01-40e7-b31f-6c3117a9c624" 
+binding = "ViewCounter"                              # i.e. available in your Worker on env.DB
+database_id = "72f5fd97-3f01-40e7-b31f-6c3117a9c624"
 database_name = "ViewCounter"
